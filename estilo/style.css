@@ -63,7 +63,7 @@ header > p{
     padding-left: 10px;
     font-family: var(--fonte-padrao);
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.397) ;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
 }
 
 nav{
